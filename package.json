@@ -1,0 +1,13 @@
+{
+  "name": "simple-oidc-example-package",
+  "version": "3.1.4",
+  "description": "An OIDC example",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azu/simple-oidc-example-package.git"
+  },
+  "scripts": {},
+  "author": "azu <azuciao@gmail.com>",
+  "license": "MIT"
+}
