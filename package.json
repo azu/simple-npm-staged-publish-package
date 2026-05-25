@@ -1,5 +1,5 @@
 {
-    "name": "simple-npm-staged-publish-package-example",
+    "name": "@azu/simple-npm-staged-publish-package-example",
     "version": "3.1.4",
     "description": "An OIDC example",
     "main": "index.js",
